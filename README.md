@@ -73,9 +73,17 @@ This repository documents my journey of learning Machine Learning step by step, 
 
 ---
 
+### 🔹 Day 9: Support Vector Machine (SVM)
+
+- SVM finds the optimal hyperplane
+- Maximizes margin between classes
+- Support vectors define the boundary
+- Kernel trick helps in non-linear data
+- Scaling is very important for SVM
+- 
 ## 🚀 Next Step
 
-Currently Learning: **Support Vector Machine (SVM)**
+Currently Learning: ** Clustering (K-Means)**
 
 ---
 
