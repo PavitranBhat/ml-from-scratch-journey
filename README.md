@@ -81,9 +81,12 @@ This repository documents my journey of learning Machine Learning step by step, 
 - Kernel trick helps in non-linear data
 - Scaling is very important for SVM
 - 
-## 🚀 Next Step
+### 🔹 Day 10:  XGBoost
 
-Currently Learning: ** Clustering (K-Means)**
+- XGBoost uses boosting technique
+- Trees are built sequentially
+- Focuses on minimizing errors
+- High performance model
 
 ---
 
